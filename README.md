@@ -1,5 +1,5 @@
 [![header](./banner.png)](https://kavoyaa.github.io/)
-# Hi there 👋
+# 👋🏼 Hey there!
 I'm **Kavya**, a high school student from India with a knack for programming.<br>
 I am interested in everything computer science and always open to learning new technologies.<br>
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*Skills:*<br>
+## 🧑🏼‍💻 Skills
 ![Python]( https://img.shields.io/badge/Python-383838?logo=python)
 ![JavaScript]( https://img.shields.io/badge/JavaScript-383838?logo=javascript)
 ![HTML5]( https://img.shields.io/badge/HTML5-383838?logo=html5)
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![Git]( https://img.shields.io/badge/Git-383838?logo=git)
 ![Linux]( https://img.shields.io/badge/Linux-383838?logo=linux)
 
-## My stats
+## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=kavoyaa&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="Kavoyaa's Stats">
 
 
