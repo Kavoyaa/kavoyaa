@@ -1,4 +1,4 @@
-[![header](./banner.png)](https://kavoyaa.github.io/)
+# [![header](./banner.png)](https://kavoyaa.github.io/)
 # 👋🏼 Hey there!
 I'm **Kavya**, a high school student from India with a knack for programming.<br>
 I am interested in everything computer science and always open to learning new technologies.<br>
