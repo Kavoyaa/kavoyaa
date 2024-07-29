@@ -7,21 +7,6 @@ I am interested in everything computer science and always open to learning new t
 - 📫 Reach out to me through [LinkedIn](https://www.linkedin.com/in/kav-pandey) or [Email](mailto:pandeykavya@outlook.com)!
 - ⚡ Fun fact: My favourite font is **Poppins**!
 
-<!--
-**Kavoyaa/kavoyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## 🧑🏼‍💻 Skills
 ![Python]( https://img.shields.io/badge/Python-383838?logo=python)
 ![JavaScript]( https://img.shields.io/badge/JavaScript-383838?logo=javascript)
@@ -33,6 +18,4 @@ Here are some ideas to get you started:
 ![Linux]( https://img.shields.io/badge/Linux-383838?logo=linux)
 
 ## 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=kavoyaa&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="Kavoyaa's Stats">
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=kavoyaa&theme=one_dark_pro&show_icons=true&hide_border=true&count_private=true" alt="Kavoyaa's Stats">
