@@ -4,7 +4,7 @@ I'm **Kavya**, a high school student from India with a knack for programming.<br
 I am interested in everything computer science and always open to learning new technologies.<br>
 
 - 🌱 Currently learning **Flask**.
-- 📫 Reach out to me through [LinkedIn](https://www.linkedin.com/in/kav-pandey) or [Email](mailto:pandeykavya@outlook.com)!
+- 📫 Reach out to me through [Email](mailto:pandeykavya@outlook.com)!
 - ⚡ Fun fact: My favourite font is **Poppins**!
 
 ## 🧑🏼‍💻 Skills
