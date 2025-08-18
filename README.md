@@ -1,6 +1,6 @@
 [![header](./banner.png)](https://kavoyaa.github.io/)
 # 👋🏼 Hey there!
-I'm **Kavya**, a high school student from India with a knack for programming.<br>
+I'm **Kavya**, a computer science student and tech enthusiast.<br>
 I am interested in everything computer science and always open to learning new technologies.<br>
 
 - 🌱 Currently learning **Flask**.
