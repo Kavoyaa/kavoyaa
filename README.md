@@ -1,4 +1,5 @@
 [![header](./banner.png)](https://kavoyaa.github.io/)
+<br>*i know it should say kavoyaa.github.io but at this point im too lazy to fix it*
 # 👋🏼 Hey there!
 I'm **Kavya**, a computer science student and tech enthusiast.<br>
 I am interested in everything computer science and always open to learning new technologies.<br>
