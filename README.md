@@ -4,7 +4,7 @@
 I'm **Kavya**, a computer science student and tech enthusiast.<br>
 I am interested in everything computer science and always open to learning new technologies.<br>
 
-- 🌱 Currently learning **Flask**.
+- 🌱 Currently learning **FastAPI**.
 - 📫 Reach out to me through [Email](mailto:pandeykavya@outlook.com)!
 - ⚡ Fun fact: My favourite font is **Poppins**!
 
